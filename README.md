@@ -60,7 +60,7 @@ Corporate transportation teams often face:
 | **Power BI**  | Interactive dashboard, visualization & KPI monitoring |
 | **Jira**  | Requirements, user stories, sprint/task tracking |
 | **Lucidchart / Draw.io** | As-Is/To-Be process mapping & flow diagrams  |
-| **GitHub** | Project documentation, version control & portfolio management |
+| **GitHub** | Project hosting and documentation |
 
 
 ## 📊 Key KPIs
