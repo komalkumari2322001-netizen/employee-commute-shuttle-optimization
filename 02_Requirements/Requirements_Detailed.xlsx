@@ -1,1 +1,66 @@
+1. Business_Requirements:
+
+| Requirement ID | Requirement                                         | Priority | Stakeholder                    | Acceptance Criteria                          |
+| -------------- | --------------------------------------------------- | -------- | ------------------------------ | -------------------------------------------- |
+| BRQ-001        | Analyze employee demand by pickup location and time | High     | Transport Manager              | Demand can be viewed by location and time    |
+| BRQ-002        | Monitor vehicle occupancy and utilization           | High     | Transport Manager              | Vehicle utilization can be calculated        |
+| BRQ-003        | Identify overcrowded and underutilized trips        | High     | Transport Manager              | Exception trips are identified               |
+| BRQ-004        | Monitor employee waiting time                       | High     | Employees / Transport Manager  | Waiting time can be calculated               |
+| BRQ-005        | Monitor shuttle delays and On-Time Performance      | High     | Transport Manager / Management | Delay and OTP can be measured                |
+| BRQ-006        | Track shuttle cancellations and reasons             | High     | Transport Manager / Vendor     | Cancellation count and reasons are available |
+| BRQ-007        | Compare route and vehicle performance               | Medium   | Transport Manager              | Route and vehicle KPIs can be compared       |
+| BRQ-008        | Monitor transportation cost per trip                | High     | Finance                        | Cost per trip can be calculated              |
+| BRQ-009        | Monitor vendor performance                          | Medium   | Transport Manager / Finance    | Vendor KPIs can be compared                  |
+| BRQ-010        | Provide centralized transportation dashboard        | High     | Management                     | Dashboard provides required KPIs and filters |
+
+
+2. Functional_Requirements:
+
+| Requirement ID | Functional Requirement                                    | Priority | Related BRQ |
+| -------------- | --------------------------------------------------------- | -------- | ----------- |
+| FR-001         | System shall analyze demand by pickup location and time   | High     | BRQ-001     |
+| FR-002         | System shall calculate vehicle occupancy and utilization  | High     | BRQ-002     |
+| FR-003         | System shall flag overcrowded and underutilized trips     | High     | BRQ-003     |
+| FR-004         | System shall calculate employee waiting time              | High     | BRQ-004     |
+| FR-005         | System shall calculate delays and On-Time Performance     | High     | BRQ-005     |
+| FR-006         | System shall analyze cancellation count, rate and reasons | High     | BRQ-006     |
+| FR-007         | System shall compare route and vehicle performance        | Medium   | BRQ-007     |
+| FR-008         | System shall calculate transportation cost per trip       | High     | BRQ-008     |
+| FR-009         | System shall monitor vendor KPIs                          | Medium   | BRQ-009     |
+| FR-010         | System shall provide dashboard filters                    | Medium   | BRQ-010     |
+
+
+3. Non_Functional_Requirements:
+
+| Requirement ID | Requirement                                                             | Priority |
+| -------------- | ----------------------------------------------------------------------- | -------- |
+| NFR-001        | Dashboard should be easy to use and understand                          | Medium   |
+| NFR-002        | Dashboard should provide acceptable performance                         | Medium   |
+| NFR-003        | Data should be checked for missing and duplicate records                | High     |
+| NFR-004        | KPI definitions should remain consistent across Excel, SQL and Power BI | High     |
+| NFR-005        | Solution should be easy to update with new data                         | Medium   |
+| NFR-006        | Only required employee information should be used                       | High     |
+
+
+4. Assumptions:
+
+| ID      | Assumption                                    |
+| ------- | --------------------------------------------- |
+| ASM-001 | Project uses synthetic transportation data    |
+| ASM-002 | Vehicle capacity is available                 |
+| ASM-003 | Scheduled and actual trip times are available |
+| ASM-004 | Cancellation reasons are available            |
+| ASM-005 | Trip cost is available or can be calculated   |
+
+
+
+
+
+
+
+
+
+
+
+
 
