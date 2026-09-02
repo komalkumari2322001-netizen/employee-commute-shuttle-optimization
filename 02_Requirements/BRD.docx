@@ -1,1 +1,60 @@
 
+BUSINESS REQUIREMENTS DOCUMENT (BRD)
+
+Project: Employee Commute & Corporate Shuttle Optimization System
+Document ID: BRD-001
+Version: 1.0
+Author: Komal
+Role: Business Analyst
+
+1. Purpose
+Analyze employee transportation operations and identify opportunities to improve routes, vehicle utilization, waiting time, delays, cancellations and costs.
+
+2. Business Problem
+The organization faces:
+• Long waiting times
+• Shuttle delays and cancellations
+• Vehicle overcrowding/underutilization
+• Inefficient routes
+• Poor capacity planning
+• Limited KPI visibility
+
+3. Objectives
+• Identify high-demand locations
+• Improve vehicle and route utilization
+• Reduce waiting time and delays
+• Analyze cancellations and costs
+• Monitor vendor performance
+• Provide a centralized KPI dashboard
+
+4. Scope
+In Scope: Bookings, routes, vehicles, trips, demand, delays, cancellations, vendors, costs and KPIs.
+
+Out of Scope: Real-time GPS, live traffic, mobile app and payment processing.
+
+5. Stakeholders
+Employees, Transport Manager, HR, Admin/Facility, Vendors, Finance and Management.
+
+6. Business Requirements
+BRQ-001: Analyze demand by location and time.
+BRQ-002: Monitor vehicle utilization.
+BRQ-003: Identify overcrowded/underutilized trips.
+BRQ-004: Monitor waiting time.
+BRQ-005: Monitor delays and OTP.
+BRQ-006: Track cancellations and reasons.
+BRQ-007: Compare routes and vehicles.
+BRQ-008: Monitor cost per trip.
+BRQ-009: Monitor vendor performance.
+BRQ-010: Provide centralized dashboard.
+
+7. KPIs
+• Vehicle Utilization %
+• Route Utilization %
+• Average Waiting Time
+• Average Delay
+• OTP %
+• Cancellation Rate
+• Cost per Trip
+
+8. Expected Outcome
+Improve employee commute experience, transportation efficiency, capacity utilization and data-driven decision-making.
