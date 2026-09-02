@@ -1,0 +1,7 @@
+Vehicle_ID,Vehicle_Number,Vehicle_Type,Vendor_Name,Capacity,Status
+V001,KA01AB1001,Mini Bus,Whitefield Travels,20,Active
+V002,KA01AB1002,Mini Bus,Bangalore Mobility,20,Active
+V003,KA01AB1003,Bus,Whitefield Travels,40,Active
+V004,KA01AB1004,Bus,Bangalore Mobility,40,Active
+V005,KA01AB1005,Mini Bus,CityRide,25,Active
+V006,KA01AB1006,Mini Bus,CityRide,25,Active

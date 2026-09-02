@@ -1,0 +1,9 @@
+Incident_ID,Trip_ID,Incident_Date,Incident_Type,Severity,Delay_Minutes,Description
+I001,T002,2026-08-03,Traffic,Medium,9,Peak traffic caused delay
+I002,T005,2026-08-03,Traffic,High,15,Heavy congestion
+I003,T007,2026-08-04,Traffic,High,18,Peak-hour traffic
+I004,T011,2026-08-05,Traffic,Medium,10,Traffic near pickup zone
+I005,T012,2026-08-05,Traffic,High,13,Heavy traffic
+I006,T014,2026-08-05,Vehicle Breakdown,High,0,Vehicle unavailable
+I007,T015,2026-08-05,Traffic,Medium,12,Peak-hour congestion
+I008,T019,2026-08-06,Traffic,High,15,Traffic caused late pickup

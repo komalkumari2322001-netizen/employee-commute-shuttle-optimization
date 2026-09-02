@@ -1,0 +1,10 @@
+Route_ID,Route_Name,Pickup_Location,Office_Location,Distance_KM,Demand_Level
+R001,Whitefield Route,Whitefield,Manyata Tech Park,12,High
+R002,Marathahalli Route,Marathahalli,Whitefield,10,High
+R003,Electronic City Route,Electronic City,Whitefield,18,High
+R004,HSR Route,HSR Layout,Electronic City,9,Medium
+R005,Bellandur Route,Bellandur,Whitefield,8,Medium
+R006,Koramangala Route,Koramangala,Manyata Tech Park,11,Medium
+R007,BTM Route,BTM Layout,Electronic City,7,Low
+R008,Sarjapur Route,Sarjapur Road,Electronic City,14,High
+R009,Indiranagar Route,Indiranagar,Manyata Tech Park,6,Low

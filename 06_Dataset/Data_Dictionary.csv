@@ -1,0 +1,15 @@
+Table_Name,Column_Name,Description
+Employees,Employee_ID,Unique employee identifier
+Employees,Pickup_Location,Employee pickup location
+Vehicles,Vehicle_ID,Unique vehicle identifier
+Vehicles,Capacity,Maximum passenger capacity
+Routes,Route_ID,Unique route identifier
+Routes,Demand_Level,High/Medium/Low demand classification
+Trips,Trip_ID,Unique trip identifier
+Trips,Trip_Status,Completed or Cancelled
+Trips,Trip_Cost_INR,Trip cost in INR
+Bookings,Booking_ID,Unique booking identifier
+Bookings,Booking_Status,Booked or Cancelled
+Incidents,Incident_ID,Unique incident identifier
+Incidents,Incident_Type,Incident category
+Incidents,Delay_Minutes,Delay caused by incident
