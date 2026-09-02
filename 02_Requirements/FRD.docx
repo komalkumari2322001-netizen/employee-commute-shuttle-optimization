@@ -1,1 +1,47 @@
+FUNCTIONAL REQUIREMENTS DOCUMENT (FRD)
 
+1. Purpose
+Define the functional requirements needed to support the transportation optimization solution.
+
+2. Functional Requirements
+
+FR-001: Analyze demand by pickup location and time.
+FR-002: Calculate vehicle occupancy and utilization.
+FR-003: Identify overcrowded and underutilized trips.
+FR-004: Calculate employee waiting time.
+FR-005: Calculate delays and On-Time Performance.
+FR-006: Analyze cancellation count, rate and reasons.
+FR-007: Compare route and vehicle performance.
+FR-008: Calculate transportation cost per trip.
+FR-009: Monitor vendor performance.
+FR-010: Provide dashboard filters for date, route, location, vehicle and vendor.
+
+3. KPI Formulas
+
+Vehicle Utilization % =
+Booked Seats / Vehicle Capacity × 100
+
+Waiting Time =
+Actual Pickup Time − Scheduled Pickup Time
+
+OTP % =
+On-Time Trips / Completed Trips × 100
+
+Cancellation Rate =
+Cancelled Trips / Scheduled Trips × 100
+
+Cost per Trip =
+Total Trip Cost / Completed Trips
+
+4. Non-Functional Requirements
+
+• Easy-to-use dashboard
+• Good data quality
+• Consistent KPI definitions
+• Easy to update
+• Efficient dashboard performance
+• Protect unnecessary employee information
+
+5. Tools
+
+Excel | SQL | Power BI | Jira | Lucidchart / Draw.io
