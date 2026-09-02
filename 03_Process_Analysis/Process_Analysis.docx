@@ -1,1 +1,92 @@
+PROCESS ANALYSIS
 
+1. PURPOSE
+
+The purpose of this process analysis is to understand the current employee transportation process, identify operational gaps and define an improved To-Be process.
+
+
+2. AS-IS PROCESS
+
+Employee Transportation Request
+↓
+Shuttle Booking
+↓
+Demand Consolidation
+↓
+Capacity Planning
+↓
+Route Planning
+↓
+Vehicle / Vendor Assignment
+↓
+Trip Execution
+↓
+Issue Handling
+↓
+Performance Review
+↓
+Management Decision
+
+
+3. AS-IS PAIN POINTS
+
+• Limited visibility of employee demand
+• Manual demand consolidation
+• Vehicle capacity mismatch
+• Inefficient routes
+• Difficult delay tracking
+• Poor cancellation analysis
+• Limited vendor performance visibility
+• Fragmented KPI reporting
+
+
+4. TO-BE PROCESS
+
+Employee Booking
+↓
+Data Validation
+↓
+Demand Analysis
+↓
+Capacity Planning
+↓
+Route Review
+↓
+Vendor Planning
+↓
+Trip Execution
+↓
+Incident Capture
+↓
+KPI Dashboard
+↓
+Continuous Improvement
+
+
+5. KEY PROCESS IMPROVEMENTS
+
+• Centralized demand analysis
+• Demand-based capacity planning
+• Improved route planning
+• Standardized incident tracking
+• Centralized KPI dashboard
+• Better vendor performance monitoring
+• Data-driven decision making
+
+
+6. PROCESS KPIs
+
+• Vehicle Utilization %
+• Route Utilization %
+• Average Waiting Time
+• Average Delay
+• On-Time Performance %
+• Cancellation Rate
+• Cost per Trip
+
+
+7. BA CONCLUSION
+
+The proposed To-Be process improves transportation visibility, capacity planning, route efficiency and KPI monitoring.
+
+It enables management to identify operational problems and take data-driven decisions to improve employee commute experience and transportation efficiency.
